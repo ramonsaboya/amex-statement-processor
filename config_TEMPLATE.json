@@ -1,0 +1,38 @@
+{
+    "dedup": ["AMAZON", "DELIVEROO", "UBER TRIP", "TESCO", "W H SMITH", "TRAINLINE"],
+    "special_replacements": {
+        "AMZNMKTPLACE": "AMAZON"
+    },
+    "category_mapping": {
+        "Business Services-Office Supplies": "Groceries",
+        "Business Services-Other Services": "Groceries",
+        "Business Services-Professional Services": "Groceries",
+        "Communications-Internet Communication": "Tech",
+        "Entertainment-Bars & Cafés": "Entertainment",
+        "Entertainment-Clubs": "Entertainment",
+        "Entertainment-General Events": "Entertainment",
+        "Entertainment-Restaurants": "Eating out",
+        "Entertainment-Sports Events": "Wellness",
+        "Entertainment-Theatrical Events": "Entertainment",
+        "General Purchases-Appliance Stores": "House",
+        "General Purchases-Clothing Stores": "Styling",
+        "General Purchases-Computer Supplies": "Tech",
+        "General Purchases-Department Stores": "Groceries",
+        "General Purchases-Electronics Stores": "Tech",
+        "General Purchases-Furnishing": "House",
+        "General Purchases-Government Services": "Transportation",
+        "General Purchases-General Retail": "Styling",
+        "General Purchases-Groceries": "Groceries",
+        "General Purchases-Hardware Supplies": "Tech",
+        "General Purchases-Mail Order": "Tech",
+        "General Purchases-Online Purchases": "Groceries",
+        "General Purchases-Pharmacies": "Groceries",
+        "General Purchases-Sporting Goods Stores": "Styling",
+        "General Purchases-Wholesale Stores": "Tech",
+        "Miscellaneous-Other": "Other",
+        "Travel-Airline": "Transportation",
+        "Travel-Other Travel": "Transportation",
+        "Travel-Rail Services": "Transportation",
+        "Travel-Travel Agencies": "Transportation"
+    }
+}
